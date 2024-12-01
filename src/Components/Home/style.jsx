@@ -69,6 +69,6 @@ line-height: 29.05px;
 text-align: center;
  background: #037143;
  color:white;
-;
+
 
 `
